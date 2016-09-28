@@ -1,0 +1,5 @@
+# coding: Shift_JIS
+puts "”CˆÓ‚Ì®”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B"
+num = gets.to_i
+puts "‹ô”‚Å‚·B" if num % 2 == 0
+puts "Šï”‚Å‚·B" if num % 2 == 1
